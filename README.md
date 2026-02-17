@@ -2,7 +2,7 @@
 
 A **zero-data**, physics-informed Deep Operator Network (PI-DeepONet) framework for learning the solution operators of nonlinear dynamical systems. The model learns short-time flow maps from physics loss alone — no numerical solver data is used during training — and composes them recursively for long-horizon prediction.
 
-We reproduce and extend the benchmark suite from [Goswami et al. (2023)](https://doi.org/10.1016/j.engappai.2022.105636) across five ODE systems of increasing complexity, achieving **comparable or superior accuracy** while eliminating the need for pre-computed training trajectories.
+We reproduce and extend the benchmark suite from [Lin et al. (2023)](https://doi.org/10.1016/j.engappai.2023.106689) across five ODE systems of increasing complexity, achieving **comparable or superior accuracy** while eliminating the need for pre-computed training trajectories.
 
 ---
 
